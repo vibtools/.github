@@ -1,7 +1,7 @@
 <!-- SEO Optimized Header -->
 <div align="center">
   <a href="https://vib.tools/">
-    <img src="https://raw.githubusercontent.com/vibtools/vibtools.github.io/refs/heads/main/public/brand/vibtools-horizontal.png" alt="Vib Tools - Official Open Source Developer Ecosystem and Automation Software" width="400" />
+    <img src="https://raw.githubusercontent.com/vibtools/vibtools.github.io/refs/heads/main/public/brand/vibtools-horizontal-light.png" alt="Vib Tools - Official Open Source Developer Ecosystem and Automation Software" width="400" />
   </a>
   
   <h1 align="center">Welcome to the Vib Tools Developer Ecosystem</h1>
