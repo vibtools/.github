@@ -1,72 +1,233 @@
-<!-- SEO Optimized Header -->
-<div align="center">
-  <a href="https://vib.tools/">
-    <img src="https://raw.githubusercontent.com/vibtools/vibtools.github.io/refs/heads/main/public/brand/vibtools-horizontal-light.png" alt="Vib Tools - Official Open Source Developer Ecosystem and Automation Software" width="400" />
-  </a>
-  
-  <h1 align="center">Welcome to the Vib Tools Developer Ecosystem</h1>
-  
-  <p align="center">
-    <b>Building high-performance open-source automation tools, secure infrastructure, and developer utilities.</b>
-  </p>
+<!-- ========================================================= -->
+<!-- Vib Tools Organization Profile -->
+<!-- ========================================================= -->
 
-  <!-- Brand Links for organic traffic flow -->
-  <p align="center">
-    <a href="https://vibtools.github.io/"><strong>Developer Hub</strong></a> ·
-    <a href="https://vib.tools/"><strong>Official Site</strong></a> ·
-    <a href="https://ygit.dev/"><strong>YGit Dev</strong></a> ·
-    <a href="https://ygit.net/"><strong>YGit Web</strong></a>
-  </p>
+<div align="center">
+
+<a href="https://vib.tools">
+<img src="https://raw.githubusercontent.com/vibtools/vibtools.github.io/main/public/brand/vibtools-horizontal-light.png" width="420" alt="Vib Tools">
+</a>
+
+# Vib Tools
+
+### Open Source Developer Ecosystem
+
+Build • Deploy • Automate • Scale
+
+[Official Website](https://vib.tools) •
+[Developer Portal](https://ygit.dev) •
+[Deployment Platform](https://ygit.net)
+
 </div>
 
-<br/>
+---
 
-## 🌐 About Vib Tools
-We are a dedicated team of software engineers and security researchers focused on creating practical, secure, and highly efficient digital tools. Our open-source ecosystem is designed to help developers and businesses streamline their workflows through reliable automation, portable desktop applications, and secure server infrastructures.
+## About
 
-### ⚡ Core Engineering Domains
-<!-- Using Primary Blue (#2563EB) for Badges to match Brand Guidelines -->
-* **Software Development:** ![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white) ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2563EB?style=flat-square) 
-* **Web & Automation:** ![Playwright](https://img.shields.io/badge/Playwright-2563EB?style=flat-square&logo=playwright&logoColor=white) ![Automation](https://img.shields.io/badge/Browser_Automation-2563EB?style=flat-square)
-* **Infrastructure & Security:** ![Email Servers](https://img.shields.io/badge/SMTP_%26_Email_Servers-2563EB?style=flat-square) ![Cybersecurity](https://img.shields.io/badge/Security_Research-2563EB?style=flat-square)
+Vib Tools is an open-source software ecosystem focused on building modern developer platforms, deployment automation, secure authentication systems, infrastructure tooling, and portable desktop applications.
+
+Our goal is simple:
+
+> **Build professional open-source software that removes complexity from development and deployment.**
 
 ---
 
-## 🌌 The YGit Ecosystem (New)
-As part of our commitment to empowering developers globally, we proudly maintain the **YGit** platform—a powerful suite of tools designed to simplify version control management and completely free web hosting.
+# Core Platforms
 
-### 🛠️ [YGit.dev](https://ygit.dev/) | Universal Developer Platform
-An all-in-one ecosystem to manage your public Git repositories across **GitHub, GitLab**, and other major platforms.
-* **The `ygit` CLI App:** Seamlessly upload and download open-source free tools, apps, and source codes with a single terminal command.
-* **Unified Dashboard:** Control and sync your cross-platform Git workflow effortlessly from one place.
+## YGIT
 
-### 🌍 [YGit.net](https://ygit.net/) | Free Hosting Solutions
-Empowering creators, students, and developers to push their projects live instantly without any financial barriers.
-* **Free Domains & Static Websites:** Deploy your static sites for free with included domain services, optimized for blazing-fast speed and high reliability.
+Git-native deployment platform.
+
+```
+Repository
+
+↓
+
+Analyze
+
+↓
+
+Deploy
+
+↓
+
+Website Live
+```
+
+Features
+
+- Repository Analysis
+- One-click Deployment
+- GitHub Integration
+- Cloudflare Pages Integration
+- Project Management
+- Deployment History
 
 ---
 
-## 🚀 Featured Open Source Projects
+## Vib ID
 
-Here are some of our foundational projects maintained for the community. Click to explore the source code or visit our [Developer Hub](https://vibtools.github.io/) for comprehensive documentation.
+Modern authentication platform.
 
-### 💻 Desktop Applications
-* **[PortableAccountBrowser](https://github.com/vibtools/PortableAccountBrowser)**  
-  *Open-source portable multi-account Chromium browser optimized for smooth, isolated local workflows.*
+Features
 
-### 🛠️ Server Infrastructure
-* **[VibMail Open Source](https://github.com/vibtools/vibmail-open-source)**  
-  *Self-hosted open-source email server architecture built for reliability and professional deployments.*
+- Identity Management
+- OAuth
+- OpenID Connect
+- Keycloak Integration
+- Session Management
+- Security Dashboard
 
-### 🌍 Web Platform
-* **[VibTools Open Source Hub](https://github.com/vibtools/vibtools.github.io)**  
-  *The core repository for our developer ecosystem and documentation portal.*
+---
+
+## Vib Tools
+
+Developer ecosystem for open-source software.
+
+Includes
+
+- Desktop Applications
+- Web Platforms
+- Infrastructure
+- Developer SDKs
+- Documentation
+
+---
+
+# Technology Stack
+
+Backend
+
+- FastAPI
+- Python
+- PostgreSQL
+- Redis
+- Keycloak
+
+Frontend
+
+- React
+- Tailwind CSS
+- TypeScript
+
+Infrastructure
+
+- Docker
+- Coolify
+- Cloudflare
+- GitHub
+- GitHub Actions
+
+Desktop
+
+- Python
+- CustomTkinter
+- Playwright
+
+---
+
+# Open Source Projects
+
+## YGIT
+
+Deployment automation platform.
+
+Repository
+
+```
+github.com/vibtools/ygit
+```
+
+---
+
+## Vib ID
+
+Authentication platform.
+
+Repository
+
+```
+github.com/vibtools/vib-id-account-portal
+```
+
+---
+
+## VibMail
+
+Open-source mail infrastructure.
+
+Repository
+
+```
+github.com/vibtools/vibmail-open-source
+```
+
+---
+
+## Vib Tools Website
+
+Developer portal and documentation.
+
+Repository
+
+```
+github.com/vibtools/vibtools.github.io
+```
+
+---
+
+# Product Philosophy
+
+Our products are designed around one principle.
+
+> Hide infrastructure complexity behind clean, fast and intuitive interfaces.
+
+Developers should focus on building products—not configuring servers, deployment pipelines or infrastructure.
+
+---
+
+# Organization
+
+```
+Vib Tools
+
+├── ygit.net
+│   Deployment Platform
+│
+├── ygit.dev
+│   Developer Ecosystem
+│
+├── vib.tools
+│   Product Website
+│
+├── id.vib.tools
+│   Identity Platform
+│
+└── auth.vib.tools
+    Authentication
+```
+
+---
+
+# Current Status
+
+| Product | Status |
+|----------|--------|
+| Vib Tools | Active |
+| YGIT | MVP Development |
+| Vib ID | Active Development |
+| YGit Marketplace | Planned |
+| Plugin Platform | Planned |
+| AI Builder | Planned |
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vibtools/vibtools.github.io/refs/heads/main/public/brand/vibtools-icon.png" alt="Vib Tools Icon" width="45" />
-  <p><i>Build. Share. Contribute.</i></p>
-  <a href="https://vib.tools/"><img src="https://img.shields.io/badge/Vib_Tools-Official_Website-38BDF8?style=for-the-badge" alt="Vib Tools Website"></a>
-  <a href="https://ygit.dev/"><img src="https://img.shields.io/badge/yGit-Developer_Tools-2563EB?style=for-the-badge" alt="YGit Dev"></a>
+
+**Build Better. Deploy Faster.**
+
+<img src="https://raw.githubusercontent.com/vibtools/vibtools.github.io/main/public/brand/vibtools-icon.png" width="48">
+
+https://vib.tools
+
 </div>
