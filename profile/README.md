@@ -525,9 +525,7 @@ Explore the organization:
 <img
 src="https://raw.githubusercontent.com/vibtools/vibtools.github.io/main/public/brand/vibtools-icon.png"
 width="56"
-alt="Vib Tools Icon"
-
->
+alt="Vib Tools Icon">
 
 ## Build Better. Deploy Faster.
 
