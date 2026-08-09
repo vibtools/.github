@@ -323,41 +323,39 @@ We are building free tools because useful software should be more accessible. Ou
 
 ## Contact and Social
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-vib.tools-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://vib.tools)
+[![GitHub](https://img.shields.io/badge/GitHub-vibtools-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vibtools)
+[![GitLab](https://img.shields.io/badge/GitLab-vibtools-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/vibtools)
+[![Email](https://img.shields.io/badge/Email-hello@vib.tools-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@vib.tools)
+[![Support](https://img.shields.io/badge/Support-support@vib.tools-38BDF8?style=flat-square&logo=gmail&logoColor=111827)](mailto:support@vib.tools)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+880%201795--470603-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+8801795470603)
+
+</div>
 
 ### Contact
 
-* Website: [vib.tools](https://vib.tools)
-* GitHub: [github.com/vibtools](https://github.com/vibtools)
-* GitLab: [gitlab.com/vibtools](https://gitlab.com/vibtools)
-* Email: [hello@vib.tools](mailto:hello@vib.tools)
-* Support: [support@vib.tools](mailto:support@vib.tools)
-* WhatsApp: [+880 1795-470603](tel:+8801795470603)
-
-</td>
-<td width="50%" valign="top">
+- Website: [vib.tools](https://vib.tools)
+- GitHub: [github.com/vibtools](https://github.com/vibtools)
+- GitLab: [gitlab.com/vibtools](https://gitlab.com/vibtools)
+- Email: [hello@vib.tools](mailto:hello@vib.tools)
+- Support: [support@vib.tools](mailto:support@vib.tools)
+- WhatsApp: [+880 1795-470603](tel:+8801795470603)
 
 ### Social
 
-* TikTok: [@vibtools](https://www.tiktok.com/@vibtools)
-* Facebook: [vib.tools](https://www.facebook.com/vib.tools)
-* X: [@vibtools](https://x.com/vibtools)
-* Instagram: [@vib.tools](https://www.instagram.com/vib.tools/)
-* Reddit: [u/VibTools](https://www.reddit.com/user/VibTools/)
-
-</td>
-</tr>
-</table>
+[![TikTok](https://img.shields.io/badge/TikTok-@vibtools-111827?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@vibtools)
+[![Facebook](https://img.shields.io/badge/Facebook-vib.tools-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/vib.tools)
+[![X](https://img.shields.io/badge/X-@vibtools-111827?style=flat-square&logo=x&logoColor=white)](https://x.com/vibtools)
+[![Instagram](https://img.shields.io/badge/Instagram-@vib.tools-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vib.tools/)
+[![Reddit](https://img.shields.io/badge/Reddit-u/VibTools-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/VibTools/)
 
 ### Address
 
-```text
-5660 Kochakata, Nageswari
-Kurigram, Rangpur
+5660 Kochakata, Nageswari  
+Kurigram, Rangpur  
 Bangladesh
-```
 
 ---
 
