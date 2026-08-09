@@ -13,7 +13,7 @@
 <a href="https://vib.tools">
   <img
     src="https://raw.githubusercontent.com/vibtools/vibtools.github.io/main/public/brand/vibtools-horizontal-light.png"
-    width="420"
+    width="360"
     alt="Vib Tools"
   >
 </a>
@@ -21,27 +21,27 @@
 <br>
 <br>
 
-# Open-Source Infrastructure for Modern Developers
+# Free Open-Source Tools for Developers and Teams
 
-### Build products. Automate infrastructure. Deploy with confidence.
+### Practical software, developer tools, desktop apps, and automation utilities.
 
-Vib Tools creates developer-first platforms for deployment automation,
-identity, infrastructure tooling, and portable software.
+Vib Tools builds free and open-source software to make everyday technical work easier,
+faster, more organized, and more accessible for developers, teams, and small businesses.
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-vib.tools-111827?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://vib.tools)
-[![YGIT](https://img.shields.io/badge/Deploy-ygit.net-2563EB?style=for-the-badge\&logo=git\&logoColor=white)](https://ygit.net)
-[![Developer Portal](https://img.shields.io/badge/Developers-ygit.dev-0F172A?style=for-the-badge\&logo=readthedocs\&logoColor=38BDF8)](https://ygit.dev)
-[![Authentication](https://img.shields.io/badge/Identity-auth.vib.tools-7C3AED?style=for-the-badge\&logo=keycloak\&logoColor=white)](https://auth.vib.tools)
+[![Website](https://img.shields.io/badge/Website-vib.tools-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vib.tools)
+[![GitHub](https://img.shields.io/badge/GitHub-vibtools-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vibtools)
+[![GitLab](https://img.shields.io/badge/GitLab-vibtools-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/vibtools)
+[![Email](https://img.shields.io/badge/Email-hello@vib.tools-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@vib.tools)
 
 <br>
 
 [About](#about-vib-tools) ·
-[Ecosystem](#the-vib-tools-ecosystem) ·
-[Projects](#open-source-projects) ·
-[Technology](#technology-foundation) ·
-[Principles](#engineering-principles)
+[Projects](#recent-open-source-projects) ·
+[What We Build](#what-we-build) ·
+[Services](#development-services) ·
+[Contact](#contact-and-social)
 
 </div>
 
@@ -49,76 +49,56 @@ identity, infrastructure tooling, and portable software.
 
 ## About Vib Tools
 
-**Vib Tools** is an open-source developer ecosystem focused on removing operational complexity from software development.
+**Vib Tools** is a software organization focused on useful, transparent, and maintainable open-source tools.
 
-We build modern tools for:
-
-```text
-Deployment Automation
-Identity and Authentication
-Developer Infrastructure
-Open-Source Web Platforms
-Portable Desktop Applications
-SDKs and Developer Tooling
-```
+We create software for people who want simple, practical solutions instead of heavy, complicated systems. Our work includes desktop applications, developer utilities, business automation tools, self-hosted software, documentation-first projects, and open-source web platforms.
 
 Our objective is straightforward:
 
-> **Build professional open-source software that makes complex infrastructure feel simple.**
+> **Build free and open-source tools that help people do real work with less complexity.**
 
-Developers should spend their time building products—not manually configuring deployment pipelines, authentication systems, servers, or fragmented infrastructure.
+We believe good tools should be clear, fast, dependable, and easy to understand. We build for developers, operators, creators, teams, and businesses that need practical software they can inspect, run, adapt, and trust.
 
 ---
 
-## The Vib Tools Ecosystem
+## Recent Open-Source Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 YGIT
+### 🪪 [Licora](https://github.com/vibtools/Licora)
 
-**Git-native deployment automation**
+**Open-Source Central License Management System**
 
-Deploy supported Git repositories to infrastructure owned by the user.
+A central license-management project for organizing software licensing workflows, license records, and product access logic in an open and maintainable way.
 
 ```text
-Repository
-    ↓
-Analyze
-    ↓
-Connect
-    ↓
-Deploy
-    ↓
-Website Live
+License Management
+Product Access
+Central Records
+Open Source
 ```
 
-[Open YGIT](https://ygit.net) ·
-[Developer Portal](https://ygit.dev) ·
-[Repository](https://github.com/vibtools/ygit)
+[Open Repository](https://github.com/vibtools/Licora)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Vib ID
+### 🧠 [ContextVault v0.2.1](https://github.com/vibtools/ContextVault)
 
-**Identity and access platform**
+**Portable ChatGPT conversation archive tool**
 
-A centralized authentication foundation for Vib Tools products and connected applications.
+A Windows desktop application that saves fully loaded ChatGPT conversations as portable, integrity-checked, RAG-ready archives.
 
 ```text
-Identity
-    ↓
-Authentication
-    ↓
-Authorization
-    ↓
-Secure Sessions
+Conversation Capture
+Integrity Checks
+Portable Archives
+RAG Ready
 ```
 
-[Authentication Portal](https://auth.vib.tools) ·
-[Account Portal Repository](https://github.com/vibtools/vib-id-account-portal)
+[Open Repository](https://github.com/vibtools/ContextVault)
 
 </td>
 </tr>
@@ -126,251 +106,140 @@ Secure Sessions
 <tr>
 <td width="50%" valign="top">
 
-### 🧰 Vib Tools
+### ✉️ [MailStack](https://github.com/vibtools/MailStack)
 
-**Open-source developer software**
+**Open-source self-hosted mail server and shared team inbox**
 
-A growing collection of web platforms, desktop applications, infrastructure components, and developer utilities.
+A secure business email project for teams that want self-hosted mail infrastructure, shared inbox workflows, and transparent operational control.
 
 ```text
-Web Platforms
+Self-Hosted Mail
+Team Inbox
+Secure Email
+Business Tools
+```
+
+[Open Repository](https://github.com/vibtools/MailStack)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [VibraPilot v1.0.6.13](https://github.com/vibtools/VibraPilot)
+
+**Vib Tools Browser Automation Desktop**
+
+A desktop automation tool for browser-based workflows, repeatable actions, and productivity-focused automation tasks.
+
+```text
+Browser Automation
+Desktop Utility
+Workflow Automation
+Productivity Tools
+```
+
+[Open Repository](https://github.com/vibtools/VibraPilot)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧾 [Invio](https://github.com/vibtools/invio)
+
+**Provider-based invoice automation**
+
+A Vib Tools desktop application for provider-based invoice automation, invoice workflow management, and practical business process support.
+
+```text
+Invoice Automation
+Provider Based
+Desktop App
+Business Workflow
+```
+
+[Open Repository](https://github.com/vibtools/invio)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 More Tools Coming
+
+We continue to build free open-source utilities for developers, teams, businesses, and everyday technical workflows.
+
+```text
+Developer Tools
+Desktop Apps
+Business Automation
+Open Platforms
+```
+
+[Explore Vib Tools](https://github.com/vibtools)
+
+</td>
+</tr>
+</table>
+
+---
+
+## What We Build
+
+Vib Tools focuses on practical software that solves real workflow problems.
+
+```text
+Free Open-Source Tools
+Developer Utilities
 Desktop Applications
-Infrastructure Tools
-Developer SDKs
-Documentation
+Business Automation Software
+Self-Hosted Tools
+Documentation-First Projects
+Portable Data Tools
+Secure Team Workflows
+Open-Source Web Platforms
 ```
 
-[Official Website](https://vib.tools) ·
-[Website Repository](https://github.com/vibtools/vibtools.github.io)
+We work to make common technical tasks easier: saving useful data, managing licenses, automating invoices, running email infrastructure, building desktop tools, improving developer workflows, and creating software that people can understand and control.
+
+---
+
+## Development Services
+
+Alongside open-source work, Vib Tools also provides development services for teams and businesses that need practical software delivery.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Custom Software Development
+
+We build maintainable tools, dashboards, automation systems, internal apps, and workflow software based on real business requirements.
 
 </td>
 <td width="50%" valign="top">
 
-### ✉️ VibMail
+### Open-Source Product Engineering
 
-**Open-source mail infrastructure**
+We design and develop open-source products with clean structure, readable documentation, release discipline, and developer-friendly workflows.
 
-Mail infrastructure and tooling designed for transparent, extensible, and independently managed deployments.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-```text
-Mail Infrastructure
-Open Architecture
-Developer Tooling
-Self-Managed Systems
-```
+### Desktop and Automation Tools
 
-[Repository](https://github.com/vibtools/vibmail-open-source)
+We create desktop applications, browser automation tools, invoice tools, data tools, and productivity-focused utilities.
+
+</td>
+<td width="50%" valign="top">
+
+### Web and Developer Platforms
+
+We build websites, documentation systems, developer portals, backend APIs, and integration-ready software foundations.
 
 </td>
 </tr>
 </table>
-
----
-
-## YGIT: Deployment Without Infrastructure Lock-In
-
-YGIT is the flagship deployment platform within the Vib Tools ecosystem.
-
-It is an **open-source deployment automation platform**—not a hosting company, website builder, CMS, or traditional control panel.
-
-<div align="center">
-
-```text
-Paste Repository  →  Analyze Repository  →  Connect Accounts  →  Deploy  →  Website Live
-```
-
-</div>
-
-### Core Capabilities
-
-| Capability             | Description                                                                 |
-| ---------------------- | --------------------------------------------------------------------------- |
-| Repository Analysis    | Detect frameworks, build commands, package managers, and output directories |
-| GitHub Integration     | Connect repositories through controlled provider access                     |
-| Cloudflare Integration | Deploy projects to the user’s own Cloudflare infrastructure                 |
-| Project Management     | Organize repositories, deployment settings, and project configuration       |
-| Deployment Automation  | Queue and execute deployments through a controlled pipeline                 |
-| Deployment History     | Review deployment states, logs, provider summaries, and failures            |
-| Connected Accounts     | Manage GitHub and Cloudflare provider connections                           |
-| Domain Management      | Reserve and manage YGIT-generated project addresses                         |
-
-### Ownership Model
-
-YGIT is built around infrastructure ownership.
-
-```text
-The user owns the repository.
-The user owns the Cloudflare account.
-The user owns the code.
-The user owns the domain.
-The user owns the infrastructure.
-
-YGIT automates the workflow.
-```
-
-No forced infrastructure ownership.
-No hidden hosting dependency.
-No unnecessary vendor lock-in.
-
----
-
-## Product Architecture
-
-Vib Tools products are designed around clear architectural boundaries.
-
-```text
-Presentation Layer
-        ↓
-API Layer
-        ↓
-Engine Layer
-        ↓
-Provider Layer
-        ↓
-User-Owned Infrastructure
-```
-
-For YGIT, the browser dashboard and CLI are clients of the same platform API.
-
-```text
-Dashboard ─┐
-           ├── YGIT API → Engines → Worker → Deploy Pipeline → Providers
-YGIT CLI ──┘
-```
-
-Business logic remains inside independent engines. Provider operations remain behind controlled provider and pipeline boundaries.
-
----
-
-## Technology Foundation
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Backend
-
-* Python
-* FastAPI
-* PostgreSQL
-* Redis
-* SQLAlchemy
-* Alembic
-* Pydantic
-
-</td>
-<td width="33%" valign="top">
-
-### Frontend
-
-* React
-* TypeScript
-* Tailwind CSS
-* Modern JavaScript
-* Responsive Web UI
-
-</td>
-<td width="33%" valign="top">
-
-### Identity
-
-* Keycloak
-* OpenID Connect
-* OAuth 2.0
-* PKCE
-* Secure server sessions
-* Role-based access
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" valign="top">
-
-### Infrastructure
-
-* Docker
-* Coolify
-* Cloudflare
-* Cloudflare Pages
-* Cloudflare R2
-* Nginx
-
-</td>
-<td width="33%" valign="top">
-
-### Source Control
-
-* Git
-* GitHub
-* GitHub Apps
-* GitHub Actions
-* Automated release gates
-
-</td>
-<td width="33%" valign="top">
-
-### Desktop Tooling
-
-* Python
-* CustomTkinter
-* Playwright
-* Cross-platform utilities
-
-</td>
-</tr>
-</table>
-
----
-
-## Open-Source Projects
-
-### [`vibtools/ygit`](https://github.com/vibtools/ygit)
-
-The core YGIT deployment automation platform.
-
-```text
-FastAPI API
-Engine Modules
-Background Worker
-Deploy Pipeline
-GitHub Provider
-Cloudflare Provider
-Dashboard
-Operations Console
-```
-
----
-
-### [`vibtools/ygit-cli`](https://github.com/vibtools/ygit-cli)
-
-The official command-line client for the YGIT platform.
-
-```bash
-ygit login
-ygit init https://github.com/user/repository
-ygit deploy --subdomain my-project
-```
-
-The CLI communicates exclusively with the YGIT API and does not implement a separate deployment system.
-
----
-
-### [`vibtools/vib-id-account-portal`](https://github.com/vibtools/vib-id-account-portal)
-
-Account and identity management interface for the Vib ID ecosystem.
-
----
-
-### [`vibtools/vibmail-open-source`](https://github.com/vibtools/vibmail-open-source)
-
-Open-source mail infrastructure and supporting developer tools.
-
----
-
-### [`vibtools/vibtools.github.io`](https://github.com/vibtools/vibtools.github.io)
-
-The official Vib Tools website, developer entry point, and product information platform.
 
 ---
 
@@ -380,33 +249,16 @@ The official Vib Tools website, developer entry point, and product information p
 <tr>
 <td width="50%" valign="top">
 
-### Developer First
+### Free and Open Source
 
-Interfaces, APIs, workflows, and documentation are designed for developers from the beginning.
-
-</td>
-<td width="50%" valign="top">
-
-### Documentation First
-
-Architecture and contracts are documented before implementation begins.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Open by Default
-
-We prefer transparent systems, open standards, and inspectable software.
+We prefer software that can be inspected, improved, shared, and adapted by the community.
 
 </td>
 <td width="50%" valign="top">
 
-### Ownership by Design
+### Practical by Default
 
-Repositories, accounts, domains, code, and infrastructure remain under user control.
+We build tools for real work, not empty demos or overcomplicated product marketing.
 
 </td>
 </tr>
@@ -414,16 +266,33 @@ Repositories, accounts, domains, code, and infrastructure remain under user cont
 <tr>
 <td width="50%" valign="top">
 
-### Modular Architecture
+### Developer Friendly
 
-Each platform capability has a clear responsibility, public contract, tests, and documentation.
+Projects should be readable, documented, testable, and understandable for developers who want to contribute or self-host.
 
 </td>
 <td width="50%" valign="top">
 
-### Mature Infrastructure
+### Simple User Experience
 
-We reuse reliable open-source infrastructure instead of rebuilding solved systems unnecessarily.
+Good software should reduce effort. Interfaces should be clear, fast, responsive, and focused on the task.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Ownership and Transparency
+
+Users and teams should understand how their tools work and stay in control of their data, workflows, and deployment choices.
+
+</td>
+<td width="50%" valign="top">
+
+### Continuous Improvement
+
+We keep improving our tools, documentation, release process, and product quality through practical iteration.
 
 </td>
 </tr>
@@ -433,88 +302,80 @@ We reuse reliable open-source infrastructure instead of rebuilding solved system
 
 ## Product Philosophy
 
-Every Vib Tools product follows a shared principle:
-
-> **Hide infrastructure complexity behind clean, fast, and intuitive developer experiences.**
-
-Our products aim to be:
+Every Vib Tools project should be:
 
 ```text
-Dark First
-Developer First
-Git Native
-Cloud Native
-Minimal
-Professional
-Fast
-Responsive
-Keyboard Friendly
+Useful
 Open Source
+Simple to Understand
+Developer Friendly
+Documentation First
+Fast and Responsive
+Maintainable
+Privacy Respecting
+Accessible
+Built for Real Work
 ```
+
+We are building free tools because useful software should be more accessible. Our goal is to help people save time, reduce repetitive work, and use open-source technology with confidence.
 
 ---
 
-## Organization Map
+## Contact and Social
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Contact
+
+* Website: [vib.tools](https://vib.tools)
+* GitHub: [github.com/vibtools](https://github.com/vibtools)
+* GitLab: [gitlab.com/vibtools](https://gitlab.com/vibtools)
+* Email: [hello@vib.tools](mailto:hello@vib.tools)
+* Support: [support@vib.tools](mailto:support@vib.tools)
+* WhatsApp: [+880 1795-470603](tel:+8801795470603)
+
+</td>
+<td width="50%" valign="top">
+
+### Social
+
+* TikTok: [@vibtools](https://www.tiktok.com/@vibtools)
+* Facebook: [vib.tools](https://www.facebook.com/vib.tools)
+* X: [@vibtools](https://x.com/vibtools)
+* Instagram: [@vib.tools](https://www.instagram.com/vib.tools/)
+* Reddit: [u/VibTools](https://www.reddit.com/user/VibTools/)
+
+</td>
+</tr>
+</table>
+
+### Address
 
 ```text
-Vib Tools
-│
-├── vib.tools
-│   └── Company, products, and ecosystem
-│
-├── ygit.net
-│   └── Deployment automation platform
-│
-├── ygit.dev
-│   └── Developer portal and documentation
-│
-├── auth.vib.tools
-│   └── Authentication and identity services
-│
-├── YGIT CLI
-│   └── Terminal client for the YGIT API
-│
-└── Open-Source Projects
-    ├── Web platforms
-    ├── Infrastructure tooling
-    ├── Desktop applications
-    └── Developer SDKs
+5660 Kochakata, Nageswari
+Kurigram, Rangpur
+Bangladesh
 ```
-
----
-
-## Platform Status
-
-| Product           | Current Stage           |
-| ----------------- | ----------------------- |
-| Vib Tools Website | Active                  |
-| YGIT Platform     | MVP Development         |
-| YGIT CLI          | Foundation Development  |
-| Vib ID            | Active Development      |
-| VibMail           | Open-Source Development |
-| YGIT Marketplace  | Planned                 |
-| Plugin Platform   | Planned                 |
-| AI Builder        | Planned                 |
-| Analytics         | Planned                 |
-| Teams             | Planned                 |
 
 ---
 
 ## Contributing
 
-We welcome developers who care about open-source infrastructure, deployment automation, identity systems, developer experience, and maintainable software architecture.
+We welcome developers, testers, writers, designers, and users who care about practical open-source tools.
 
 Before contributing:
 
-1. Review the repository documentation.
-2. Read the architecture and contribution rules.
-3. Search existing issues and discussions.
-4. Open an issue before proposing major architectural changes.
-5. Keep pull requests focused, documented, and testable.
+1. Review the target repository documentation.
+2. Check existing issues and discussions.
+3. Keep pull requests focused and easy to review.
+4. Describe the problem, the fix, and the testing clearly.
+5. Respect each project’s architecture, license, and contribution rules.
 
 Explore the organization:
 
-[![GitHub Organization](https://img.shields.io/badge/GitHub-vibtools-181717?style=for-the-badge\&logo=github)](https://github.com/vibtools)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-vibtools-181717?style=for-the-badge&logo=github)](https://github.com/vibtools)
 
 ---
 
@@ -524,20 +385,20 @@ Explore the organization:
 
 <img
 src="https://raw.githubusercontent.com/vibtools/vibtools.github.io/main/public/brand/vibtools-icon.png"
-width="56"
+width="48"
 alt="Vib Tools Icon">
 
-## Build Better. Deploy Faster.
+## Build Useful Tools. Share Them Openly.
 
-**Open-source infrastructure for developers who want to own their stack.**
+**Free and open-source software for developers, teams, and practical business workflows.**
 
 [Website](https://vib.tools) ·
-[YGIT](https://ygit.net) ·
-[Developer Portal](https://ygit.dev) ·
-[GitHub](https://github.com/vibtools)
+[GitHub](https://github.com/vibtools) ·
+[GitLab](https://gitlab.com/vibtools) ·
+[Email](mailto:hello@vib.tools)
 
 <br>
 
-<sub>Built by Vib Tools · Open source · Developer first</sub>
+<sub>Built by Vib Tools · Free tools · Open source · Developer friendly</sub>
 
 </div>
